@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="5">
+            <Title>Sample Story MS</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="7">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+		Role in Story:	
+
+		Related Characters:	
+
+		Season:	
+
+		Unique Features:	
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+		Role in Story:	
+
+		Occupation:	
+     	
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      	
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="19">
+            <Title>Story</Title>
+        </Document>
+        <Document ID="23">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="24">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="25">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="28">
+            <Title>Short Story Format</Title>
+            <Text>SHORT STORY MANUSCRIPT FORMAT
+
+About This Template
+When compiled (File &gt; Compile), this project will generate a document in the standard manuscript format for short story submissions.
+
+How To Use This Template
+Edit the First Page Header document to ensure it contains the correct information. The text in this document will appear at the top of the first page of the compiled story manuscript.
+Create a new text document for each scene inside the Story folder. (Upon export, scenes will automatically be separated by the “#” character.) Alternatively, you can write your entire story in a single text document if you prefer (in which case you will need to add the “#” character between the scenes in your document yourself).
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+Compile your manuscript into standard short story manuscript format by selecting File &gt; Compile.
+
+Making Changes
+You may wish to change the following:
+Page header: You can edit the page header in the “Page Settings” pane of the Compile sheet.
+Project and author name: The default story title and author name used in headers and elsewhere can be customised by going to Project &gt; Meta-Data Settings… and choosing the “Project Properties” tab.
+Font: You can use the “Formatting” pane in Compile to change the font used in the final document by selecting a row in the elements table, then clicking into the preview text to select it and clicking the “A” button in the format bar to change the font settings. Note that fonts are not included in e-books, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a particular font in an e-book).
+Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+
+Sample Document
+See the “Sample Story MS” PDF file in the Research folder for an example of a document that has been created using this template.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="29">
+            <Title>First Page Header</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>
+David Rutter
+2123 Pine Rd
+404-290-2106
+Quintopia@gmail.com
+
+
+
+&lt;$wc100&gt; words
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by &lt;$fullname&gt;</Text>
+            <Notes>The text from this document will appear at the top of the first page of the compiled story. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
+
+The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="30">
+            <Title>Brigitte</Title>
+            <Text>Brigitte
+
+		Role in Story:	
+
+		Occupation:	
+     	
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      	
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="31">
+            <Title>Outline</Title>
+            <Text>Brigitte gets woken up (late) by Eric at their Magnacon hotel room. She stayed up late Friday night and it’s only an hour til they have to be lined up for the parade—not enough time to put on the costume she wanted. Here we learn about the difficulties of securing giant-accessible hotel rooms and finding costume ideas that work for a giant and aren’t overdone.
+
+She throws something together and they run down to the parade start. But they get slowed by protesters who give her some abuse and then blocked entirely by Tansy’s secret service escort. They decide to just jump out into the parade as it goes by.
+
+After the parade, Eric invites her to come to the “Mythical Being Representation in Fiction” panel with Jim Butcher, but she says that he shouldn’t since their high school succubus friend is tired of being lumped in with vampires thanks to Jim Butcher, that he didn’t even talk to any real succubi when writing the Dresden Files, and therefore that he has no standing to discuss those issues. Besides, she is on a panel about costume creation.
+
+It turns out Tansy is on that panel, and she has brought a bunch of friends to straight-up criticize the interference of mythical beings in cosplay. Here we learn the rule about mythical beings not being allowed to use their unique abilities in the contest. (B’s friend and fellow panelist, the elf mage, lets slip that he has developed a nearly foolproof method of detecting violators of this rule, if the contest committee would just agree to adopt it.) Also, we learn about Brigitte’s past wins.
+More importantly, Tansy has all her friends in the audience and they come up at the end to ask some very pointed and racist questions and comments. Tansy, of course, strongly takes their side, and interrupts B to go on a diatribe about the “mythical creature problem”, and what the President, her mother, is promoting in opposition to recent terrorist attacks. When Brigitte forces the other panelists—all human—to indicate their recognition that it is very racist and exclusive, they hem and haw, and B, attacked from all sides, frustrated, and on the verge of a violent outburst, just gets up and leaves the room, Tansy sweetly—and threateningly—singing that she would see her later as she leaves.
+
+B meets E at the food court for their pre-planned lunch. B buys a triple portion of sushi, complaining that the restaurant does not provide convenient-sized carry-out boxes for giants—lashing out uncharacteristically because of how she’s just been treated. E notices and makes her open up about it, provides comfort, offers to be her “date” to that evening’s costume ball at the Sheraton main ballroom. B is confused because the Sheraton is not part of con, but E explains that it’s an open event held by the magical being conference to entice attendance of mythical being con-goers and their dates to check out their events and raise money for charity.
+
+Cut to their bedroom, getting dressed in new costumes for the ball, after an afternoon of shopping, autograph-seeking, and giving blood—B got the last 4XL shirt and E is irrationally amused by the vampires who were volunteering at the drive—and dinner. They meet another “couple” who are going to the same place as they step out onto the street—a human girl with a male giant. They talk—intraspeciesly—the whole time they are waiting in the line to get in the ball. Giant boy tells her he is very into collecting information about the history of magical races. Once inside, they get some punch and share a table. B is attracted to the giant boy and they go out to dance, but the music is interrupted after the first song. It’s the president of the symposium, who first makes sure everyone is having a good time, asks people who were attending Magnacon to identify themselves, then points to the protests and overt racism he’s been seeing walking around the Magnacon hotels, wondering if the magical beings among them mightn’t like to have a magical being exclusive event with only others who understand what it’s like? Maybe they’d all be happier if they didn’t force themselves to suffer these attacks? The boy she’s with seems sympathetic to this idea and B gets immediately frustrated with him. Returning to their table, she finds E gone. She catches him walking out of the ballroom hand-in-hand with the girl. She goes around the corner to find them in the elevator bank already snogging. She’s genuinely happy for him. She sees them get in an elevator and the girl press a button. Just to be able to check up on him later, she goes back to the ballroom and talks to the giant boy to find out where their room is. He doesn’t know—they had themselves just met earlier that evening, when she randomly approached him and asked him to go to that ball and never gave him her number—but he and B exchange numbers anyway just in case either finds out something. So she sends E a text asking him to let her know where he is, then returns back to the Magnacon and their hotel room.
+
+The next morning, she goes to an early Q/A with the celeb who played the wildling giant on Game of Thrones. In the middle of it, she gets a text from him: “Idk. Somwr on top floor. We she did I feel really weird. Sm1 else in here?” She figures he must be hung over from drinking in her room all night and decides to go rescue him for lunch. But she can’t get to the top floor without a card specifically keyed for those floors. A guest explains that that floor is blocked off because it has been completely bought out by the president for her daughter and her guests. She tries to take the stairs, but there’s a SS agent at the top door to turn her away. She argues but he won’t budge. She asks him to tell someone to get Eric out here. He won’t even do that. She texts him to come and he comes stumbling out into the stairwell minutes later, half-dressed and very drunk. B is obviously a bit disgusted by his lack of restraint. Then she notices he is bleeding from two swollen puncture wounds on his neck. She touches them and he winces away, hard. They look pretty bad, so she decides to take him to the first aid station—hauling him over her shoulder since he can hardly walk.
+
+They give him antihistamines and tell her to take him to the Grady ER for proper treatment. He is delirious and soon passes out cold. She immediately calls for an ambulance.
+
+The hospital says they don’t recognize it as any sort of snakebite and they don’t have enough information to treat it properly, admit him as an inpatient, and tell her there’s nothing more she can do. A kind-hearted receptionist, recognizing her badge, tells her to go enjoy the rest of Magnacon.
+
+B has some other friends—one of whom is an elf mage—that meet her for lunch. They offer their hopes for Eric’s swift recovery and console her and then start trying to convince her to go get ready for the costume contest. She’s thinking maybe she’ll just go back to the hospital and check on Eric. But then a Secret Service agent (looking very much out of sorts) comes in and starts clearing the room they are eating in, citing that the president’s daughter will be arriving soon and the need to secure the room before she arrives. They grumble and groan and sigh loudly, but they are finished eating anyway, so they start clearing up their trash. By the time they leave, here come Tansy and friends and SS detail.
+
+They spot B—of course, easy enough—and Tansy comes to say she heard B’s boyfriend hooked up with some rando and then got so drunk he wound up in the emergency room getting his stomach pumped. “That’s super sad and all, but I’m not going to waste my time worrying about it. I’ve got a costume contest to win.” B is so incensed at the insult that she immediately comes back “Not a chance, Miss Priss. If you want that prize you’ll have to beat me.” And now she’s committed.
+
+Around the corner, she is stopped by the same sullen Secret Service agent that was securing the room. He waves a hand and calls her over. He takes off his earpiece-mic and shades and murmurs to her. “That was your friend she snuck back to her room last night?” “No, it was some other girl.” “There was no other girl on that floor last night. Listen, she tried to do the same thing to me once. I’m fed up with this detail. I’m not going to go blabbing all her secrets because I’d like to keep my head attached to my shoulders, but I do wish you the best of luck with your contest. Please beat that spoiled little brat.”
+
+So B spends the next two hours getting her costume ready, and shows up at the appointed time for registered competitors with her elf mage friend. She’s the first one to do the walk and gets quite glowing reviews and a great deal of applause.
+At the moment she leaves the stage, she gets a call from Eric. He’s awake, slightly groggy, but mostly himself again. B asks if he slept with the President’s daughter—but he’s not clear on that. There was some funky business, and he felt like he wasn’t himself—like he had been hypnotized if that was a real thing—and then the girl bit him hard on the neck and he immediately started getting woozy and couldn’t remember what all he did from that point. Then he woke up in the bed, high as a kite on who knows what. Another, much older man was lying naked in the closet raving about the sun. He stumbled to where his pants had fallen and found his phone and texted and barely managed to get himself dressed before she had arrived. Then B asks him to describe the man in the closet and precisely what he had overheard. She makes one more call to an unknown person.
+
+An hour later, B is back again. Tansy is the last one going up on stage to show off her costume and it is impossibly good—somehow she looks exactly like a character she normally doesn’t look that much like. Tansy goes out on the stage and starts strutting, and she’s getting even noisier responses from the crowd. The judges look very impressed. As she leaves the stage, B goes up to her—as close as her guard will let her get—and says tells her that whatever bad blood they had between them, her costume was excellent. “May the best one win,” B says, offering her hand. Tansy smirks. “And the best one is always going to be the proper human lady.” She derisively slaps B’s hand away. B, snatching her hand back, beams.
+
+ There’s a fifteen minute delay while the judges tabulate their scores. After that, the announcer comes back to say that the winners have been chosen. B gets 2nd and Tansy gets 1st. As Tansy comes out to collect her prize, she’s looking very—weird. Sick. Like a bad allergic reaction. She takes the trophy, but she starts sinking toward the stage, her skin color getting rapidly darker. The audience gasps and everyone watches in disgust and terror as she turns into a snake with scaly skin and lines of sharp teeth in her mouth—including two huge fangs—wrapped in a tangle of cloth.
+
+B is grinning as she steps up to take the mic.
+
+“No worries, folks. She’s fine. That’s what she actually looks like. She’s a Yuxa. A friend of mine who studies the history of magical races says that the Tatar always told stories of a snake-like creature who could take the form of a beautiful girl in order to seduce men with her looks and charms and convince them to give her more children—and those men were said to have died in the process. The legends said that she was immortal—the only one like her in the world. And now we have her here in the flesh, the President’s very own daughter—or perhaps, more likely, the President’s mother, since she must be at least a thousand years old—using magical charms to enhance her appearance for this contest. In other words, she was cheating.”
+
+“Liessss!” Tansy insists that B used some kind of potion or charm to turn her, a normal human girl, into a snake, orders the Secret Servicemen to seize her. They do. The police are called in as well. 
+
+Denouement: B and the elf mage and the Secret Service and the police magical race investigation unit and the head judge of the contest are all in a private conference room in the Magnacon Hotel. Tansy is still in snake form. They bring Eric in and B goes to give him a hug, but he immediately falls on his butt upon spotting Tansy. “It’s her. No! Get her away! Ah! I remember…I think. You’re the one who—you bit me!” Elf mage explains how he had given some of his charm-dispelling cream to B who put it on her hand, and that it would wear off in an hour. The investigators use their own magic detection spells to confirm that Tansy is in no way enchanted at the moment. They know of no law disallowing the use of potions that dispell magic, and so must release B. The judge gives her the first place trophy she deserves and Tansy slithers away with her agents. Eric moves well aside out of her way, disgusted and afraid. B comes to give him that hug, and they walk out together, hand in hand. 
+
+
+
+
+
+
+
+</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
