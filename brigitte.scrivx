@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-IN7LFQO" Modified="2017-09-22 02:33:15 -0400" ModID="CAA21131-F2ED-4D9D-A3F2-352549BE3C08">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-IN7LFQO" Modified="2017-11-01 14:45:08 -0400" ModID="82E68940-609B-4866-89DE-6E0AF09B5960">
     <Binder>
         <BinderItem ID="28" UUID="BE84652C-D0A7-407D-A13F-704526D10548" Created="2010-10-23 10:15:26 -0400" Modified="2014-05-23 04:57:32 -0400" Type="Text">
             <Title>Short Story Format</Title>
@@ -34,7 +34,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>12848,0</TextSelection>
+                        <TextSelection Caret="783">777,6</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -64,14 +64,25 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="6" UUID="04A46502-68ED-4683-879E-A546C792F394" Created="2006-11-04 12:33:03 -0400" Modified="2015-09-23 20:29:48 -0400" Type="Text">
-                            <Title>Scene</Title>
+                        <BinderItem ID="6" UUID="04A46502-68ED-4683-879E-A546C792F394" Created="2006-11-04 12:33:03 -0400" Modified="2017-11-01 14:44:24 -0400" Type="Text">
+                            <Title>Waking up in Atlanta</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>3202,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="32" UUID="2732EE42-4F33-44E4-8AB6-E074160A8575" Created="2017-11-01 14:44:29 -0400" Modified="2017-11-01 14:44:41 -0400" Type="Text">
+                            <Title>Protesters at the parade</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>590,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -89,7 +100,7 @@
                 <Target Type="Words">0</Target>
             </TextSettings>
             <Children>
-                <BinderItem ID="30" UUID="F5210357-FD53-4D2C-95FA-A9EEFC5F3601" Created="2017-09-21 14:33:55 -0400" Modified="2017-09-21 14:34:14 -0400" Type="Text">
+                <BinderItem ID="30" UUID="F5210357-FD53-4D2C-95FA-A9EEFC5F3601" Created="2017-09-21 14:33:55 -0400" Modified="2017-11-01 14:13:38 -0400" Type="Text">
                     <Title>Brigitte</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
@@ -100,7 +111,7 @@
                         <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>8,0</TextSelection>
+                        <TextSelection>136,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -235,7 +246,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:42:42 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="2408" Characters="13188" Date="2017-09-21 14:31:52 -0400"/>
+        <PreviousSession Words="689" Characters="3852" Date="2017-11-01 12:23:44 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="B2518D9E-7284-4625-8391-B55AC213D66C" Color="0.901961 0.917647 0.933333">
