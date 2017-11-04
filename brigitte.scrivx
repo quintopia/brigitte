@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-IN7LFQO" Modified="2017-11-02 14:57:41 -0400" ModID="D0567223-3F78-42E9-8B23-443041880010">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-IN7LFQO" Modified="2017-11-03 22:51:12 -0400" ModID="AFE0876C-3513-4075-ABEA-3018ABD41F67">
     <Binder>
         <BinderItem ID="28" UUID="BE84652C-D0A7-407D-A13F-704526D10548" Created="2010-10-23 10:15:26 -0400" Modified="2014-05-23 04:57:32 -0400" Type="Text">
             <Title>Short Story Format</Title>
@@ -34,7 +34,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1322,0</TextSelection>
+                        <TextSelection>1548,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -64,20 +64,20 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="6" UUID="04A46502-68ED-4683-879E-A546C792F394" Created="2006-11-04 12:33:03 -0400" Modified="2017-11-02 00:57:23 -0400" Type="Text">
-                            <Title>Waking up in Atlanta</Title>
+                        <BinderItem ID="6" UUID="04A46502-68ED-4683-879E-A546C792F394" Created="2006-11-04 12:33:03 -0400" Modified="2017-11-03 22:12:52 -0400" Type="Text">
+                            <Title>SHRINK SECOND HALF Waking up in Atlanta</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>387,0</TextSelection>
+                                <TextSelection>1247,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="32" UUID="2732EE42-4F33-44E4-8AB6-E074160A8575" Created="2017-11-01 14:44:29 -0400" Modified="2017-11-02 01:17:01 -0400" Type="Text">
-                            <Title>Protesters at the parade</Title>
+                        <BinderItem ID="32" UUID="2732EE42-4F33-44E4-8AB6-E074160A8575" Created="2017-11-01 14:44:29 -0400" Modified="2017-11-03 22:12:19 -0400" Type="Text">
+                            <Title>CUT IN HALF Protesters at the parade</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -86,13 +86,73 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="33" UUID="D80782A2-D895-43B5-9C45-75276945AEA0" Created="2017-11-02 01:17:12 -0400" Modified="2017-11-02 14:57:39 -0400" Type="Text">
-                            <Title>Running into Tansy and her guard</Title>
+                        <BinderItem ID="33" UUID="D80782A2-D895-43B5-9C45-75276945AEA0" Created="2017-11-02 01:17:12 -0400" Modified="2017-11-03 22:12:25 -0400" Type="Text">
+                            <Title>CUT IN HALF Running into Tansy and her guard</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1999,0</TextSelection>
+                                <TextSelection>2385,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="34" UUID="FD53E6D1-1976-4A74-A4EF-0F26A1C7ABCF" Created="2017-11-03 12:19:10 -0400" Modified="2017-11-03 22:12:35 -0400" Type="Text">
+                            <Title>CUT ENTIRELY Parade Sequel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1119,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="35" UUID="8065AEC6-94AD-4545-B724-822780BB221C" Created="2017-11-03 15:28:43 -0400" Modified="2017-11-03 19:59:34 -0400" Type="Text">
+                            <Title>Panel with Tansy</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5548,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="36" UUID="805A0E5C-167C-480B-BB73-53EA813FE918" Created="2017-11-03 19:29:52 -0400" Modified="2017-11-03 22:13:10 -0400" Type="Text">
+                            <Title>CUT IN HALF Food Court</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>623,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="37" UUID="6FCA7148-7B87-43A1-80C8-0BE69D093152" Created="2017-11-03 20:50:24 -0400" Modified="2017-11-03 22:13:24 -0400" Type="Text">
+                            <Title>CUT ENTIRELY A costume change</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1363,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="38" UUID="E8F612DD-E424-4445-A0F4-49FC74A899A9" Created="2017-11-03 21:35:34 -0400" Modified="2017-11-03 22:35:53 -0400" Type="Text">
+                            <Title>The walk to the ball and dancing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1939,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="39" UUID="23C63932-4E28-4735-8792-C16E5630C975" Created="2017-11-03 22:35:55 -0400" Modified="2017-11-03 22:51:01 -0400" Type="Text">
+                            <Title>Announcements at the ball</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2056,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -256,7 +316,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:42:42 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1500" Characters="8452" Date="2017-11-01 12:23:44 -0400"/>
+        <PreviousSession Words="4575" Characters="25502" Date="2017-11-01 12:23:44 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="B2518D9E-7284-4625-8391-B55AC213D66C" Color="0.901961 0.917647 0.933333">
