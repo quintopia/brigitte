@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-IN7LFQO" Modified="2017-11-21 00:49:56 -0500" ModID="62448EE1-DFBD-47DB-A437-7717051B5339">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-IN7LFQO" Modified="2017-11-26 18:02:40 -0500" ModID="EAFB3BF6-D9D0-4D81-9830-FE6F17DF370B">
     <Binder>
         <BinderItem ID="28" UUID="BE84652C-D0A7-407D-A13F-704526D10548" Created="2010-10-23 10:15:26 -0500" Modified="2017-11-20 22:11:00 -0500" Type="Text">
             <Title>Short Story Format</Title>
@@ -28,15 +28,15 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="31" UUID="526AE2BC-9CFA-47EB-9D98-6CF710802F3A" Created="2017-09-21 14:35:22 -0500" Modified="2017-11-20 22:12:16 -0500" Type="Text">
+                <BinderItem ID="31" UUID="526AE2BC-9CFA-47EB-9D98-6CF710802F3A" Created="2017-09-21 14:35:22 -0500" Modified="2017-11-22 15:53:37 -0500" Type="Text">
                     <Title>Outline</Title>
                     <MetaData/>
                     <TextSettings>
-                        <TextSelection>1588,0</TextSelection>
+                        <TextSelection>30,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="29" UUID="C7DDD927-1710-4E7F-BFAD-21EA8CFF7AC2" Created="2015-09-23 20:20:01 -0500" Modified="2017-11-06 15:46:31 -0500" Type="Text">
+                <BinderItem ID="29" UUID="C7DDD927-1710-4E7F-BFAD-21EA8CFF7AC2" Created="2015-09-23 20:20:01 -0500" Modified="2017-11-22 23:58:56 -0500" Type="Text">
                     <Title>First Page Header</Title>
                     <MetaData>
                         <StatusID>0</StatusID>
@@ -45,7 +45,7 @@
                         <CompileAsIs>Yes</CompileAsIs>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>59,0</TextSelection>
+                        <TextSelection>13,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -63,104 +63,104 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="32" UUID="2732EE42-4F33-44E4-8AB6-E074160A8575" Created="2017-11-01 14:44:29 -0500" Modified="2017-11-21 00:49:54 -0500" Type="Text">
+                        <BinderItem ID="32" UUID="2732EE42-4F33-44E4-8AB6-E074160A8575" Created="2017-11-01 14:44:29 -0500" Modified="2017-11-26 16:09:14 -0500" Type="Text">
                             <Title>CUT DOWN Getting to the panel</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3665,0</TextSelection>
+                                <TextSelection>1547,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="35" UUID="8065AEC6-94AD-4545-B724-822780BB221C" Created="2017-11-03 15:28:43 -0500" Modified="2017-11-20 23:06:05 -0500" Type="Text">
+                        <BinderItem ID="35" UUID="8065AEC6-94AD-4545-B724-822780BB221C" Created="2017-11-03 15:28:43 -0500" Modified="2017-11-26 16:25:19 -0500" Type="Text">
                             <Title>Panel with Tansy</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4339,0</TextSelection>
+                                <TextSelection>3766,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="50" UUID="5465A7DD-BF9D-4496-B9A7-9EB77A3DE98A" Created="2017-11-16 09:29:29 -0500" Modified="2017-11-20 23:25:11 -0500" Type="Text">
+                        <BinderItem ID="50" UUID="5465A7DD-BF9D-4496-B9A7-9EB77A3DE98A" Created="2017-11-16 09:29:29 -0500" Modified="2017-11-26 16:36:31 -0500" Type="Text">
                             <Title>Invitation to the ball</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1004,0</TextSelection>
+                                <TextSelection>936,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="38" UUID="E8F612DD-E424-4445-A0F4-49FC74A899A9" Created="2017-11-03 21:35:34 -0500" Modified="2017-11-20 23:57:53 -0500" Type="Text">
-                            <Title>CUT DOWN The walk to the ball and dancing</Title>
+                        <BinderItem ID="38" UUID="E8F612DD-E424-4445-A0F4-49FC74A899A9" Created="2017-11-03 21:35:34 -0500" Modified="2017-11-26 16:45:05 -0500" Type="Text">
+                            <Title>The walk to the ball and dancing</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2641,0</TextSelection>
+                                <TextSelection>1663,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="39" UUID="23C63932-4E28-4735-8792-C16E5630C975" Created="2017-11-03 22:35:55 -0500" Modified="2017-11-20 22:12:09 -0500" Type="Text">
+                        <BinderItem ID="39" UUID="23C63932-4E28-4735-8792-C16E5630C975" Created="2017-11-03 22:35:55 -0500" Modified="2017-11-26 16:54:11 -0500" Type="Text">
                             <Title>Announcements at the ball</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1918,0</TextSelection>
+                                <TextSelection>1864,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="40" UUID="5EDAC751-8883-456C-A4EF-7F79AE03DA7E" Created="2017-11-05 15:31:28 -0500" Modified="2017-11-20 22:12:09 -0500" Type="Text">
+                        <BinderItem ID="40" UUID="5EDAC751-8883-456C-A4EF-7F79AE03DA7E" Created="2017-11-05 15:31:28 -0500" Modified="2017-11-26 17:00:07 -0500" Type="Text">
                             <Title>Freeing Eric</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3803,0</TextSelection>
+                                <TextSelection>184,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="43" UUID="71056AC6-CACF-43E1-9B3F-0136E2148B54" Created="2017-11-05 18:22:35 -0500" Modified="2017-11-20 22:12:09 -0500" Type="Text">
-                            <Title>CUT DOWN The runway and the call from Eric</Title>
+                        <BinderItem ID="43" UUID="71056AC6-CACF-43E1-9B3F-0136E2148B54" Created="2017-11-05 18:22:35 -0500" Modified="2017-11-26 17:22:22 -0500" Type="Text">
+                            <Title>The runway and the call from Eric</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1108,0</TextSelection>
+                                <TextSelection>471,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="44" UUID="00F4A2C1-5480-4334-8E15-CB38987B5A93" Created="2017-11-05 18:52:09 -0500" Modified="2017-11-20 22:12:09 -0500" Type="Text">
+                        <BinderItem ID="44" UUID="00F4A2C1-5480-4334-8E15-CB38987B5A93" Created="2017-11-05 18:52:09 -0500" Modified="2017-11-26 17:32:01 -0500" Type="Text">
                             <Title>Tansy's walk</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>829,0</TextSelection>
+                                <TextSelection>1744,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="45" UUID="235D2E8B-6431-4C84-90E0-70A66A7EB2BF" Created="2017-11-05 21:20:07 -0500" Modified="2017-11-20 22:12:09 -0500" Type="Text">
+                        <BinderItem ID="45" UUID="235D2E8B-6431-4C84-90E0-70A66A7EB2BF" Created="2017-11-05 21:20:07 -0500" Modified="2017-11-26 17:50:30 -0500" Type="Text">
                             <Title>Tansy's meltdown</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1941,0</TextSelection>
+                                <TextSelection>3413,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="48" UUID="FB78127B-8427-48F5-A9B6-C3D44DC24251" Created="2017-11-07 15:59:26 -0500" Modified="2017-11-20 22:12:09 -0500" Type="Text">
+                        <BinderItem ID="48" UUID="FB78127B-8427-48F5-A9B6-C3D44DC24251" Created="2017-11-07 15:59:26 -0500" Modified="2017-11-26 18:02:38 -0500" Type="Text">
                             <Title>Denouement attempt 3</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>508,0</TextSelection>
+                                <TextSelection>1243,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -433,7 +433,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:42:42 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="10421" Characters="58207" Date="2017-11-17 15:27:45 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2017-11-26 15:16:07 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="B2518D9E-7284-4625-8391-B55AC213D66C" Color="0.901961 0.917647 0.933333">
@@ -444,5 +444,12 @@
             <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
         </Collection>
     </Collections>
+    <ProjectProperties>
+        <ProjectTitle>Glamor</ProjectTitle>
+        <AbbreviatedTitle>Glamor</AbbreviatedTitle>
+        <FullName>David Rutter</FullName>
+        <LastName>Rutter</LastName>
+        <FirstName>David</FirstName>
+    </ProjectProperties>
     <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="90.0002" BottomMargin="90.0002" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
 </ScrivenerProject>
