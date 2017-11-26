@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-IN7LFQO" Modified="2017-11-26 18:02:40 -0500" ModID="EAFB3BF6-D9D0-4D81-9830-FE6F17DF370B">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-IN7LFQO" Modified="2017-11-26 18:04:31 -0500" ModID="F4F1A302-4320-4A01-9FE7-5103BD050985">
     <Binder>
         <BinderItem ID="28" UUID="BE84652C-D0A7-407D-A13F-704526D10548" Created="2010-10-23 10:15:26 -0500" Modified="2017-11-20 22:11:00 -0500" Type="Text">
             <Title>Short Story Format</Title>
@@ -154,13 +154,13 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="48" UUID="FB78127B-8427-48F5-A9B6-C3D44DC24251" Created="2017-11-07 15:59:26 -0500" Modified="2017-11-26 18:02:38 -0500" Type="Text">
+                        <BinderItem ID="48" UUID="FB78127B-8427-48F5-A9B6-C3D44DC24251" Created="2017-11-07 15:59:26 -0500" Modified="2017-11-26 18:04:29 -0500" Type="Text">
                             <Title>Denouement attempt 3</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1243,0</TextSelection>
+                                <TextSelection>2716,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
